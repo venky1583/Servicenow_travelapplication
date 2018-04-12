@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Travel Expenses Table" language="en" table="x_168180_travel_ex_travel_expenses_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Travel Expenses Table</label>
+            <language>en</language>
+            <name>x_168180_travel_ex_travel_expenses_table</name>
+            <plural>Travel Expenses Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-12 07:15:08</sys_created_on>
+            <sys_id>a96571a7eb111300b0393c4fea887e62</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Travel Expenses Table</sys_name>
+            <sys_package display_value="Travel Expenses" source="x_168180_travel_ex">4165f5e3eb111300b0393c4fea887e3c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Travel Expenses">4165f5e3eb111300b0393c4fea887e3c</sys_scope>
+            <sys_update_name>sys_documentation_x_168180_travel_ex_travel_expenses_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-12 07:15:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
